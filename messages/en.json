@@ -1,0 +1,152 @@
+{
+    "HomePage": {
+        "title": "Rim Consultancy",
+        "subtitle": "Aesthetic dermotherapy and paramedical dermopigmentation",
+        "description": "Excellence in skin restoration and aesthetic enhancement."
+    },
+    "Navigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "blog": "Blog",
+        "pricing": "Pricing",
+        "contact": "Contact",
+        "reservation": "Reserve",
+        "login": "Login",
+        "register": "Register"
+    },
+    "Reservation": {
+        "title": "Secure Your Session",
+        "subtitle": "Follow the steps below to book your appointment with our specialists.",
+        "step1": "Select a Service",
+        "step2": "Choose Date & Time",
+        "step3": "Your Details",
+        "stepLabel": "Step",
+        "pickDate": "Choose a Date",
+        "availableSlots": "Available Slots",
+        "nextStep": "Next Step",
+        "back": "Back",
+        "continue": "Continue",
+        "fullName": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "bookingSummary": "Booking Summary",
+        "confirm": "Confirm Booking",
+        "secureSSL": "Secure SSL Encryption",
+        "alertSelectDate": "Please select a date first"
+    },
+    "Services": {
+        "aestheticDermotherapy": "Aesthetic Dermotherapy",
+        "paramedicalDermopigmentation": "Paramedical Dermopigmentation",
+        "medicalScarRevision": "Medical Scar Revision",
+        "initialSkinConsultation": "Initial Skin Consultation"
+    },
+    "ContactPage": {
+        "title": "Let's Start Your",
+        "titleHighlight": "Transformation",
+        "description": "Reach out to us for any inquiries or to schedule a professional consultation. Our team is here to guide you.",
+        "emailUs": "Email Us",
+        "callUs": "Call Us",
+        "visitUs": "Visit Us",
+        "sendMessage": "Send a Message",
+        "fullName": "Full Name",
+        "emailAddress": "Email Address",
+        "serviceInterest": "Service of Interest",
+        "yourMessage": "Your Message",
+        "submitInquiry": "Submit Inquiry",
+        "placeholderName": "John Doe",
+        "placeholderEmail": "john@example.com",
+        "placeholderMessage": "Tell us about your requirements...",
+        "services": {
+            "dermotherapy": "Dermotherapy",
+            "dermopigmentation": "Dermopigmentation",
+            "consultation": "Consultation"
+        }
+    },
+    "ServicesPage": {
+        "title": "Pinnacle of",
+        "titleHighlight": "Skin Excellence",
+        "subtitle": "We merge medical science with aesthetic precision to deliver transformative results tailored to your unique dermatological profile.",
+        "bookButton": "Book This Service",
+        "trust": {
+            "medicalGrade": {
+                "title": "Medical Grade",
+                "desc": "Highest safety standards"
+            },
+            "modernTech": {
+                "title": "Modern Tech",
+                "desc": "Latest industry equipment"
+            },
+            "expertCare": {
+                "title": "Expert Care",
+                "desc": "Certified practitioners"
+            },
+            "zeroWait": {
+                "title": "Zero Wait",
+                "desc": "Punctual appointment times"
+            }
+        }
+    },
+    "ServicesData": {
+        "aestheticDermotherapy": {
+            "title": "Aesthetic Dermotherapy",
+            "description": "Advanced non-invasive treatments focusing on skin rejuvenation, texture improvement, and anti-aging solutions using medical-grade technology.",
+            "benefits": [
+                "Boosts Collagen",
+                "Reduces Fine Lines",
+                "Even Skin Tone"
+            ],
+            "price": "From $150"
+        },
+        "paramedicalDermopigmentation": {
+            "title": "Paramedical Dermopigmentation",
+            "description": "Specialized medical tattooing techniques designed to camouflage scars, reconstruct areolas, and restore skin appearance after surgery or trauma.",
+            "benefits": [
+                "Scar Camouflage",
+                "Areola Reconstruction",
+                "Vitiligo Cover"
+            ],
+            "price": "From $250"
+        },
+        "detailedSkinAnalysis": {
+            "title": "Detailed Skin Analysis",
+            "description": "Multi-spectral imaging and professional dermatological analysis to create a customized treatment roadmap for your unique skin needs.",
+            "benefits": [
+                "Customized Plans",
+                "Progress Tracking",
+                "Expert Guidance"
+            ],
+            "price": "From $80"
+        },
+        "postSurgicalCare": {
+            "title": "Post-Surgical Care",
+            "description": "Dedicated recovery assistance and specialized treatments to ensure optimal healing and minimal scarring after cosmetic procedures.",
+            "benefits": [
+                "Faster Healing",
+                "Scar Prevention",
+                "Professional Monitoring"
+            ],
+            "price": "From $120"
+        },
+        "pigmentationCorrection": {
+            "title": "Pigmentation Correction",
+            "description": "Targeted treatments for hyperpigmentation, melasma, and sun damage to restore a clear, radiant complexion.",
+            "benefits": [
+                "Fades Dark Spots",
+                "Brightens Complexion",
+                "Safe for All Tones"
+            ],
+            "price": "From $180"
+        },
+        "medicalMicroNeedling": {
+            "title": "Medical Micro-Needling",
+            "description": "Precision-controlled micro-injuries that stimulate the natural healing process and enhance the penetration of therapeutic serums.",
+            "benefits": [
+                "Refines Pores",
+                "Improves Texture",
+                "Minimal Downtime"
+            ],
+            "price": "From $200"
+        }
+    }
+}

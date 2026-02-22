@@ -1,0 +1,151 @@
+{
+    "HomePage": {
+        "title": "Conseil en Dermatologie Rim",
+        "subtitle": "Dermothérapie esthétique et dermopigmentation paramédicale",
+        "description": "L'excellence dans la restauration cutanée et l'amélioration esthétique."
+    },
+    "Navigation": {
+        "home": "Accueil",
+        "about": "À Propos",
+        "services": "Services",
+        "blog": "Blog",
+        "pricing": "Tarifs",
+        "contact": "Contact",
+        "reservation": "Réserver",
+        "login": "Connexion",
+        "register": "S'inscrire"
+    },
+    "Reservation": {
+        "title": "Réservez votre séance",
+        "subtitle": "Suivez les étapes ci-dessous pour prendre rendez-vous avec nos spécialistes.",
+        "step1": "Sélectionnez un Service",
+        "step2": "Date et Heure",
+        "step3": "Vos Coordonnées",
+        "pickDate": "Choisissez une date",
+        "availableSlots": "Créneaux disponibles",
+        "nextStep": "Étape suivante",
+        "back": "Retour",
+        "continue": "Continuer",
+        "fullName": "Nom Complet",
+        "email": "Adresse Email",
+        "phone": "Numéro de Téléphone",
+        "bookingSummary": "Résumé de la Réservation",
+        "confirm": "Confirmer la Réservation",
+        "secureSSL": "Chiffrement SSL Sécurisé",
+        "alertSelectDate": "Veuillez d'abord sélectionner une date"
+    },
+    "Services": {
+        "aestheticDermotherapy": "Dermothérapie esthétique",
+        "paramedicalDermopigmentation": "Dermopigmentation paramédicale",
+        "medicalScarRevision": "Révision médicale des cicatrices",
+        "initialSkinConsultation": "Consultation initiale de la peau"
+    },
+    "ContactPage": {
+        "title": "Commencez Votre",
+        "titleHighlight": "Transformation",
+        "description": "Contactez-nous pour toute demande ou pour planifier une consultation professionnelle. Notre équipe est là pour vous guider.",
+        "emailUs": "Envoyez-nous un Email",
+        "callUs": "Appelez-nous",
+        "visitUs": "Rendez-nous Visite",
+        "sendMessage": "Envoyer un Message",
+        "fullName": "Nom Complet",
+        "emailAddress": "Adresse Email",
+        "serviceInterest": "Service d'Intérêt",
+        "yourMessage": "Votre Message",
+        "submitInquiry": "Soumettre la Demande",
+        "placeholderName": "Jean Dupont",
+        "placeholderEmail": "jean@exemple.com",
+        "placeholderMessage": "Parlez-nous de vos besoins...",
+        "services": {
+            "dermotherapy": "Dermothérapie",
+            "dermopigmentation": "Dermopigmentation",
+            "consultation": "Consultation"
+        }
+    },
+    "ServicesPage": {
+        "title": "L'Excellence",
+        "titleHighlight": "Cutanée",
+        "subtitle": "Nous allions médecine et précision esthétique pour offrir des résultats transformateurs adaptés à votre profil dermatologique unique.",
+        "bookButton": "Réservez ce Service",
+        "trust": {
+            "medicalGrade": {
+                "title": "Grade Médical",
+                "desc": "Normes de sécurité élevées"
+            },
+            "modernTech": {
+                "title": "Technologie Moderne",
+                "desc": "Équipements de pointe"
+            },
+            "expertCare": {
+                "title": "Soins Experts",
+                "desc": "Praticiens certifiés"
+            },
+            "zeroWait": {
+                "title": "Finie l'Attente",
+                "desc": "Rendez-vous ponctuels"
+            }
+        }
+    },
+    "ServicesData": {
+        "aestheticDermotherapy": {
+            "title": "Dermothérapie Esthétique",
+            "description": "Traitements avancés non invasifs focalisés sur le rajeunissement cutané, l'amélioration de la texture et l'anti-âge.",
+            "benefits": [
+                "Booste le Collagène",
+                "Réduit les Ridules",
+                "Teint Uniforme"
+            ],
+            "price": "Dès 150€"
+        },
+        "paramedicalDermopigmentation": {
+            "title": "Dermopigmentation Paramédicale",
+            "description": "Techniques spécialisées de tatouage médical pour camoufler les cicatrices, reconstruire les aréoles et restaurer l'apparence.",
+            "benefits": [
+                "Camouflage Cicatrices",
+                "Reconstruction Aréole",
+                "Vitiligo"
+            ],
+            "price": "Dès 250€"
+        },
+        "detailedSkinAnalysis": {
+            "title": "Analyse Cutanée Détaillée",
+            "description": "Imagerie multi-spectrale et analyse dermatologique pour créer une feuille de route de traitement sur mesure.",
+            "benefits": [
+                "Plans Personnalisés",
+                "Suivi des Progrès",
+                "Conseils d'Experts"
+            ],
+            "price": "Dès 80€"
+        },
+        "postSurgicalCare": {
+            "title": "Soins Post-Chirurgicaux",
+            "description": "Assistance dédiée et traitements spécialisés pour une guérison optimale et une cicatrisation minimale après chirurgie.",
+            "benefits": [
+                "Guérison Rapide",
+                "Prévention Cicatrices",
+                "Suivi Pro"
+            ],
+            "price": "Dès 120€"
+        },
+        "pigmentationCorrection": {
+            "title": "Correction de la Pigmentation",
+            "description": "Traitements ciblés pour l'hyperpigmentation, le mélasma et les dommages solaires pour un teint clair.",
+            "benefits": [
+                "Atténue les Tâches",
+                "Illumine le Teint",
+                "Sûr pour Tous"
+            ],
+            "price": "Dès 180€"
+        },
+        "medicalMicroNeedling": {
+            "title": "Micro-Needling Médical",
+            "description": "Micro-perforations contrôlées pour stimuler la guérison naturelle et améliorer la pénétration des sérums.",
+            "benefits": [
+                "Affine les Pores",
+                "Améliore la Texture",
+                "Peu de Suites"
+            ],
+            "price": "Dès 200€"
+        }
+    }
+}
